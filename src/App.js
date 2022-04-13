@@ -20,22 +20,7 @@ function App() {
       }
     }
 
-  //   function handler(event) {
-      
-  //     console.log(event.target.value)
-  //     let searchValue = event.target.value;
-  //     console.log("first",playerList);
-  //     let filteredCharacters = playerList.filter((e) => {
-  //       return (
-  //          e.TName.toLowerCase().includes(searchValue)  ||
-  //         e.PFName.toLowerCase().includes(searchValue)
-  //         );
-          
-          
-  //       });
-  //       console.log("second",playerList);
-  //       setPlayerList(filteredCharacters);
-  // }
+  
 
 
   useEffect(() => {
